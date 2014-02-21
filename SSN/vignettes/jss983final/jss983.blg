@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: jss983.aux
+The style file: jss.bst
+Database file #1: /media/Hitachi2GB/00NMML/BibTexMaster/bibtex/bib/base/StatBibTex.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--missing publisher in Maid:ArcH:2002
+You've used 26 entries,
+            3140 wiz_defined-function locations,
+            810 strings with 10533 characters,
+and the built_in function-call counts, 20488 in all, are:
+= -- 1724
+> -- 525
+< -- 19
++ -- 203
+- -- 171
+* -- 1643
+:= -- 2843
+add.period$ -- 104
+call.type$ -- 26
+change.case$ -- 172
+chr.to.int$ -- 26
+cite$ -- 27
+duplicate$ -- 1883
+empty$ -- 1890
+format.name$ -- 243
+if$ -- 4175
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 273
+newline$ -- 146
+num.names$ -- 105
+pop$ -- 634
+preamble$ -- 1
+purify$ -- 161
+quote$ -- 0
+skip$ -- 447
+stack$ -- 0
+substring$ -- 1737
+swap$ -- 578
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 219
+warning$ -- 1
+while$ -- 154
+width$ -- 0
+write$ -- 354
+(There was 1 warning)

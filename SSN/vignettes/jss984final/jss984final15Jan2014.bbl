@@ -1,0 +1,223 @@
+\begin{thebibliography}{32}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Bivand \emph{et~al.}(2008)Bivand, Pebesma, and
+  Gomez-Rubio}]{Biva:Pebe:Gome:appl:2008}
+Bivand RS, Pebesma EJ, Gomez-Rubio V (2008).
+\newblock \emph{Applied Spatial Data Analysis with {R}}.
+\newblock Springer, NY.
+\newblock \urlprefix\url{http://www.asdar-book.org/}.
+
+\bibitem[{Box and Cox(1964)}]{Box:Cox:anal:1964}
+Box GEP, Cox DR (1964).
+\newblock \enquote{An Analysis of Transformations.}
+\newblock \emph{Journal of the Royal Statistical Society, Series B},
+  \textbf{26}, 211--252.
+
+\bibitem[{Chiles and Delfiner(1999)}]{Chil:Delf:geos:1999}
+Chiles JP, Delfiner P (1999).
+\newblock \emph{Geostatistics: Modeling Spatial Uncertainty}.
+\newblock John Wiley \& Sons, New York.
+\newblock ISBN 0-471-08315-1.
+
+\bibitem[{Christensen and Ribeiro(2002)}]{Chri:Ribe:geoR:2002}
+Christensen O, Ribeiro Paulo~J J (2002).
+\newblock \enquote{geoRglm - a package for generalised linear spatial models.}
+\newblock \emph{R News}, \textbf{2}(2), 26--28.
+\newblock ISSN 1609-3631, \urlprefix\url{http://cran.R-project.org/doc/Rnews}.
+
+\bibitem[{Cook and Weisberg(1982)}]{Cook:Weis:resi:1982}
+Cook R, Weisberg S (1982).
+\newblock \emph{Residuals and Influence in Regression}.
+\newblock Chapman and Hall, New York.
+
+\bibitem[{Cressie \emph{et~al.}(2006)Cressie, Frey, Harch, and
+  Smith}]{Cres:Frey:Harc:Smit:spat:2006}
+Cressie N, Frey J, Harch B, Smith M (2006).
+\newblock \enquote{Spatial Prediction on a River Network.}
+\newblock \emph{Journal of Agricultural, Biological, and Environmental
+  Statistics}, \textbf{11}(2), 127--150.
+
+\bibitem[{Cressie(1993)}]{Cres:stat:1993}
+Cressie NAC (1993).
+\newblock \emph{Statistics for Spatial Data}.
+\newblock John Wiley \& Sons, New York.
+\newblock ISBN 0-471-00255-0.
+
+\bibitem[{Csardi and Nepusz(2006)}]{Csar:Nepu:2006}
+Csardi G, Nepusz T (2006).
+\newblock \enquote{The igraph software package for complex network research.}
+\newblock \emph{InterJournal}, \textbf{Complex Systems}, 1695.
+\newblock \urlprefix\url{http://igraph.sf.net}.
+
+\bibitem[{Dent and Grimm(1999)}]{Dent:Grim:spat:1999}
+Dent CI, Grimm NB (1999).
+\newblock \enquote{Spatial Heterogeneity of Stream Water Nutrient
+  Concentrations Over Successional Time.}
+\newblock \emph{Ecology}, \textbf{80}, 2283--2298.
+
+\bibitem[{{Fields Development Team}(2006)}]{Fiel:Deve:Team:2006}
+{Fields Development Team} (2006).
+\newblock \enquote{fields: Tools for Spatial Data. National Center for
+  Atmospheric Research, Boulder, CO.}
+\newblock {http://www.cgd.ucar.edu/Software/Fields}.
+
+\bibitem[{Finley \emph{et~al.}(2007)Finley, Banerjee, and
+  Carlin}]{Finl:Bane:Carl:spBa:2007}
+Finley AO, Banerjee S, Carlin BP (2007).
+\newblock \enquote{sp{B}ayes: An {R} Package for Univariate and Multivariate
+  Hierarchical Point-referenced Spatial Models.}
+\newblock \emph{Journal of Statistical Software}, \textbf{19}(4), 1--24.
+\newblock ISSN 1548-7660.
+\newblock \urlprefix\url{http://www.jstatsoft.org/v19/i04}.
+
+\bibitem[{Garreta \emph{et~al.}(2009)Garreta, Monestiez, and
+  Ver~Hoef}]{Garr:Mone:Ver:spat:2009}
+Garreta V, Monestiez P, Ver~Hoef JM (2009).
+\newblock \enquote{Spatial Modelling and Prediction on River Networks: {U}p
+  model,down model, or hybrid.}
+\newblock \emph{Environmetrics}, \textbf{21}, 439--456, DOI: 10.1002/env.995.
+
+\bibitem[{Gribov and Krivoruchko(2012)}]{Grib:Kriv:new:2012}
+Gribov A, Krivoruchko K (2012).
+\newblock \enquote{New Flexible Non-parametric Data Transformation for
+  Trans-Gaussian Kriging.}
+\newblock \emph{Geostatistics Oslo 2012, Quantitative Geology and
+  Geostatistics}, \textbf{17}, 51--65.
+
+\bibitem[{James(2011)}]{Jame:appl:2011}
+James DA (2011).
+\newblock \emph{Applied Multivariate Statistical Analysis}.
+\newblock R package version 0.10.0,
+  \urlprefix\url{http://CRAN.R-project.org/package=RSQLite}.
+
+\bibitem[{Laaha \emph{et~al.}(2012)Laaha, Sk{\o}ien, and
+  Bl\"{o}schl}]{Laah:Skoi:Blos:comp:2012}
+Laaha G, Sk{\o}ien JO, Bl\"{o}schl (2012).
+\newblock \enquote{Comparing Geostatistical Models for River Networks.}
+\newblock \emph{Geostatistics Oslo 2012, Quantitative Geology and
+  Geostatistics}, \textbf{17}, 543--553.
+
+\bibitem[{Le and Zidek(2006)}]{Le:Zide:stat:2006}
+Le ND, Zidek JV (2006).
+\newblock \emph{Statistical Analysis of Environmental Space-Time Processes}.
+\newblock Springer, New York.
+
+\bibitem[{McCullagh and Nelder(1989)}]{McCu:Neld:gene:1989}
+McCullagh P, Nelder JA (1989).
+\newblock \emph{Generalized Linear Models, 2nd Edition}.
+\newblock Chapman \& Hall Ltd.
+\newblock ISBN 0-412-31760-5.
+
+\bibitem[{Nelder and Mead(1965)}]{Neld:Mead:simp:1965}
+Nelder JA, Mead R (1965).
+\newblock \enquote{A Simplex Method for Function Minimization.}
+\newblock \emph{Computer Journal}, \textbf{7}, 308--313.
+
+\bibitem[{Pebesma(2004)}]{Pebe:mult:2004}
+Pebesma EJ (2004).
+\newblock \enquote{Multivariable geostatistics in S: the gstat package.}
+\newblock \emph{Computers \& Geosciences}, \textbf{30}, 683--691.
+
+\bibitem[{Peterson \emph{et~al.}(2013)Peterson, Ver~Hoef, Isaak, Falke, Fortin,
+  Jordan, McNyset, Monestiez, Ruesch, Sengupta, Som, Steel, Theobald,
+  Torgersen, and Wenger}]{Pete:Ver:Isaa:stre:2013}
+Peterson EE, Ver~Hoef JM, Isaak DJ, Falke JA, Fortin MJ, Jordan C, McNyset K,
+  Monestiez P, Ruesch AS, Sengupta A, Som N, Steel A, Theobald DM, Torgersen
+  CE, Wenger SJ (2013).
+\newblock \enquote{Stream networks in space: concepts, models, and synthesis.}
+\newblock \emph{Ecology Letters}, \textbf{16}, 707--719.
+\newblock \doi{10.1111/ele.12084.}
+
+\bibitem[{Porter \emph{et~al.}(2012)Porter, Hanson, and
+  Lin}]{Port:Hans:Lin:stay:2012}
+Porter H, Hanson P, Lin C (2012).
+\newblock \enquote{Staying afloat in the sensor data deluge.}
+\newblock \emph{Trends in Ecology and Evolution}, \textbf{27}, 121--129.
+
+\bibitem[{Ribeiro and Diggle(2001)}]{Ribe:Digg:geoR:2001}
+Ribeiro Paulo~J J, Diggle PJ (2001).
+\newblock \enquote{geo{R}: a package for geostatistical analysis.}
+\newblock \emph{R-NEWS}, \textbf{1}(2), 14--18.
+\newblock ISSN 1609-3631, \urlprefix\url{http://CRAN.R-project.org/doc/Rnews/}.
+
+\bibitem[{Shreve(1967)}]{Shre:infi:1967}
+Shreve RL (1967).
+\newblock \enquote{Infinite Topographically Random Channel Networks.}
+\newblock \emph{Journal of Geology}, \textbf{75}, 178--186.
+
+\bibitem[{Sk{\o}ien \emph{et~al.}(2012)Sk{\o}ien, Laaha, Koffler, Bl\"{o}schl,
+  Pebesma, Parajka, and
+  Viglione}]{Skoi:Laah:Koff:Blos:Pebe:Para:Vigl:rtop:2012}
+Sk{\o}ien JO, Laaha G, Koffler D, Bl\"{o}schl G, Pebesma E, Parajka J, Viglione
+  A (2012).
+\newblock \enquote{Rtop - an R package for interpolation along the stream
+  network.}
+\newblock \emph{Geophysical Research Abstracts}, \textbf{14}, 1.
+
+\bibitem[{Sk{\o}ien \emph{et~al.}(2006)Sk{\o}ien, Merz, and
+  Bl\"{o}schl}]{Skoi:Merz:Blos:top:2006}
+Sk{\o}ien JO, Merz R, Bl\"{o}schl (2006).
+\newblock \enquote{Top-Kriging -- geostatistics on stream networks.}
+\newblock \emph{Hydrology and Earth System Sciences}, \textbf{10}, 277--287.
+
+\bibitem[{Smith \emph{et~al.}(2008)Smith, Yan, and
+  Cowles}]{Smit:Yan:Cowl:unif:2008}
+Smith BJ, Yan J, Cowles MK (2008).
+\newblock \enquote{Unified Geostatistical Modeling for Data Fusion and Spatial
+  Heteroskedasticity with R Package ramps.}
+\newblock \emph{Journal of Statistical Software}, \textbf{25}(10), 1--21.
+\newblock ISSN 1548-7660.
+\newblock \urlprefix\url{http://www.jstatsoft.org/v25/i10}.
+
+\bibitem[{Stein(1988)}]{Stei:asym:1988}
+Stein ML (1988).
+\newblock \enquote{Asymptotically Efficient Prediction of a Random Field with a
+  Misspecified Covariance Function.}
+\newblock \emph{The Annals of Statistics}, \textbf{16}, 55--63.
+
+\bibitem[{Venables and Ripley(2002)}]{Vene:Ripl:mode:2002}
+Venables WN, Ripley BD (2002).
+\newblock \emph{Modern Applied Statistics with S}.
+\newblock Fourth edition. Springer, New York.
+\newblock ISBN 0-387-95457-0,
+  \urlprefix\url{http://www.stats.ox.ac.uk/pub/MASS4}.
+
+\bibitem[{Ver~Hoef and Peterson(2010)}]{Ver:Pete:Move:2010}
+Ver~Hoef JM, Peterson E (2010).
+\newblock \enquote{A Moving Average Approach for Spatial Statistical Models of
+  Stream Networks (with discussion).}
+\newblock \emph{Journal of the American Statistical Association}, \textbf{105},
+  6--18.
+\newblock \doi{10.1198/jasa.2009.ap08248; Rejoinder pgs. 22 - 24}.
+
+\bibitem[{Ver~Hoef \emph{et~al.}(2006)Ver~Hoef, Peterson, and
+  Theobald}]{Ver:Pete:Theo:spat:2006}
+Ver~Hoef JM, Peterson EE, Theobald D (2006).
+\newblock \enquote{Spatial Statistical Models That Use Flow and Stream
+  Distance.}
+\newblock \emph{Environmental and Ecological Statistics}, \textbf{13}(1),
+  449--464.
+
+\bibitem[{Verbeke and Molenberghs(2000)}]{Verb:Mole:line:2000}
+Verbeke G, Molenberghs G (2000).
+\newblock \emph{Linear Mixed Models for Longitudinal Data}.
+\newblock Springer-Verlag Inc.
+\newblock ISBN 0-387-98222-1.
+
+\bibitem[{Wolfinger and O'Connell(1993)}]{Wolf:Ocon:gene:1993}
+Wolfinger R, O'Connell M (1993).
+\newblock \enquote{Generalized Linear Mixed Models: a Pseudo-likelihood
+  Approach.}
+\newblock \emph{Journal of Statistical Computation and Simulation},
+  \textbf{48}, 233--243.
+
+\end{thebibliography}

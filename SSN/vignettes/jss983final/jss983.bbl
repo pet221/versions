@@ -1,0 +1,192 @@
+\begin{thebibliography}{26}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Ahuja \emph{et~al.}(1993)Ahuja, Magnanti, and
+  Orlin}]{Ahuj:Magn:Orli:netw:1993}
+Ahuja R, Magnanti T, Orlin J (1993).
+\newblock \emph{Network Flows: Theory, Algorithms, and Applications}.
+\newblock Prentice-Hall, New Jersey.
+
+\bibitem[{Bivand \emph{et~al.}(2008)Bivand, Pebesma, and
+  Gomez-Rubio}]{Biva:Pebe:Gome:appl:2008}
+Bivand RS, Pebesma EJ, Gomez-Rubio V (2008).
+\newblock \emph{Applied Spatial Data Analysis with {R}}.
+\newblock Springer, NY.
+\newblock \urlprefix\url{http://www.asdar-book.org/}.
+
+\bibitem[{{Bureau of Meteorology}(2012)}]{BOM:aust:2012}
+{Bureau of Meteorology} (2012).
+\newblock \enquote{Australian Hydrological Geospatial Fabric (Geofabric)
+  Product Guide.}
+\newblock Available at,
+  \urlprefix\url{http://www.bom.gov.au/water/geofabric/documentation.shtml}.
+
+\bibitem[{Cressie \emph{et~al.}(2006)Cressie, Frey, Harch, and
+  Smith}]{Cres:Frey:Harc:Smit:spat:2006}
+Cressie N, Frey J, Harch B, Smith M (2006).
+\newblock \enquote{Spatial Prediction on a River Network.}
+\newblock \emph{Journal of Agricultural, Biological, and Environmental
+  Statistics}, \textbf{11}(2), 127--150.
+
+\bibitem[{ESRI(2009)}]{ESRI:ArcG:2009}
+ESRI (2009).
+\newblock \enquote{ArcGIS Desktop: Release 9.3.1.}
+\newblock \emph{Technical report}, Environmental Systems Research Institute,
+  Redlands, CA.
+
+\bibitem[{Fischer(2004)}]{Fish:GIS:2004}
+Fischer MM (2004).
+\newblock \enquote{GIS and network analysis.}
+\newblock In \emph{Handbook of Transport Geography and Spatial Systems}, pp.
+  391--408. Elsevier, Amsterdam, The Netherlands.
+
+\bibitem[{{GRASS Development Team}(2008)}]{GRAS:geog:2008}
+{GRASS Development Team} (2008).
+\newblock \enquote{Geographic Resources Analysis Support System (GRASS)
+  Software.}
+\newblock \urlprefix\url{http://grass.osgeo.org}.
+
+\bibitem[{Hammond and Robinson(2000)}]{Hamm:Robi:pyth:2000}
+Hammond M, Robinson A (2000).
+\newblock \emph{Python Programming on Win32: Help for Windows Programmers}.
+\newblock O'Reilly Media, Inc, Sebastopol.
+
+\bibitem[{{Horizon Systems Corporation}(2007)}]{HSC:nati:2007}
+{Horizon Systems Corporation} (2007).
+\newblock \enquote{National Hydrography Dataset Plus: Documentation.}
+\newblock Available at,
+  \urlprefix\url{http://www.horizon-systems.com/NHDPlus/NHDPlusV2_documentatio%
+n.php}.
+
+\bibitem[{Jasiewicz and Metz(2011)}]{Jasi:Metz:new:2011}
+Jasiewicz J, Metz M (2011).
+\newblock \enquote{A new GRASS GIS toolkit for Hortonian analysis.}
+\newblock \emph{Computers and Geosciences}, \textbf{37}, 1525--1531.
+
+\bibitem[{Johnson and Host(2010)}]{John:Host:rece:2010}
+Johnson L, Host G (2010).
+\newblock \enquote{Recent developments in landscape approaches for the study of
+  aquatic ecosystems.}
+\newblock \emph{Journal of the North American Benthological Society},
+  \textbf{29}(1), 41--66.
+
+\bibitem[{Maidment(2002)}]{Maid:ArcH:2002}
+Maidment D (ed.) (2002).
+\newblock \emph{Arc Hydro: GIS for Water Resources}.
+\newblock Redlands, CA.
+
+\bibitem[{McGarigal \emph{et~al.}(2012)McGarigal, Cushman, and
+  Ene}]{McGa:Cush:Ene:FRAG:2012}
+McGarigal K, Cushman SA, Ene E (2012).
+\newblock \emph{FRAGSTATS v4: Spatial Pattern Analysis Program for Categorical
+  and Continuous Maps}.
+\newblock University of Massachusettes, Amherst, MA.
+\newblock
+  \urlprefix\url{http://www.umass.edu/landeco/research/fragstats/fragstats.htm%
+l}.
+
+\bibitem[{Neteler and Mitasova(2008)}]{Nete:Mita:open:2008}
+Neteler M, Mitasova H (2008).
+\newblock \emph{Open Source GIS: A GRASS GIS Approach, 3rd Edition}.
+\newblock Number 773 in The International Series in Engineering and Computer
+  Science. Springer, New York.
+
+\bibitem[{Peterson(2011)}]{Pete:STAR:2011}
+Peterson EE (2011).
+\newblock \enquote{STARS: Spatial Tools for the Analysis of River Systems - A
+  tutorial.}
+\newblock Commonwealth Scientific Industrial Research Organisation (CSIRO),
+  Technical Report EP111313. March 28, 2011. 42 p.
+\newblock
+  \urlprefix\url{http://www.fs.fed.us/rm/boise/AWAE/projects/SSN_STARS/softwar%
+e_data.html#doc}.
+
+\bibitem[{Peterson and Ver~Hoef(2010)}]{Pete:Ver:mixe:2010}
+Peterson EE, Ver~Hoef JM (2010).
+\newblock \enquote{A mixed-model moving-average approach to geostatistical
+  modeling in stream networks.}
+\newblock \emph{Ecology}, \textbf{93}(3), 644--651.
+
+\bibitem[{{R Development Core Team}(2010)}]{R:Deve:Core:ALan:2010}
+{R Development Core Team} (2010).
+\newblock \emph{R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock {ISBN} 3-900051-07-0, \urlprefix\url{http://www.R-project.org}.
+
+\bibitem[{Rathburn and Wohl(2001)}]{Rath:Wohl:one:2001}
+Rathburn SL, Wohl E (2001).
+\newblock \enquote{One-dimensional sediment transport modeling of pool recovery
+  along a mountain channel after a reservoir sediment release.}
+\newblock \emph{Regulated Rivers: Research and Management}, \textbf{17},
+  251--273.
+
+\bibitem[{Shreve(1966)}]{Shre:stat:1966}
+Shreve RL (1966).
+\newblock \enquote{Statistical law of stream numbers.}
+\newblock \emph{Journal of Geology}, \textbf{74}, 17--37.
+
+\bibitem[{Stein \emph{et~al.}(2012)Stein, Hutchinson, and
+  Stein}]{Stei:Hutc:Stei:nati:2012}
+Stein JL, Hutchinson MF, Stein JA (2012).
+\newblock \enquote{National Catchment and Stream Attributes Database version
+  1.1.5.}
+\newblock Available at,
+  \urlprefix\url{http://www.ga.gov.au/topographic-mapping/national-surface-wat%
+er-information.html}.
+
+\bibitem[{Theobald \emph{et~al.}(2005)Theobald, Norman, Peterson, and
+  Ferraz}]{Theo:Norm:Pete:Ferr:func:2005}
+Theobald D, Norman J, Peterson EE, Ferraz S (2005).
+\newblock \enquote{Functional Linkage of Watersheds and Streams (FLoWs):
+  {N}etwork-based ArcGIS Tools to Analyze Freshwater Ecosystems.}
+\newblock In \emph{Proceedings of the Second Annual International Symposium on
+  GIS Spatial Analyses in Fishery and Aquatic Sciences}. ESRI Press, Redlands,
+  California.
+
+\bibitem[{Theobald \emph{et~al.}(2006)Theobald, Norman, Peterson, Ferraz, Wade,
+  and Sherburne}]{Theo:Norm:Pete:Ferr:Wade:func:2006}
+Theobald D, Norman J, Peterson EE, Ferraz S, Wade A, Sherburne MR (2006).
+\newblock \emph{Functional Linkage of Waterbasins and Streams (FLoWs) v1 User's
+  Guide: {A}rc{G}{I}{S} Tools to Analyze Freshwater Ecosystems}.
+\newblock Natural Resource Ecology Lab, Colorado State University, Fort
+  Collins, Colorado.
+
+\bibitem[{{United States Geological Survey}(2010)}]{USGS:attr:2010}
+{United States Geological Survey} (2010).
+\newblock \enquote{Attributes for NHDPlus Catchments (Version 1.1) for the
+  Conterminous United States (DS-490).}
+\newblock USGS National Water-Quality Assessment (NAWQA) Program. Available at,
+  \urlprefix\url{http://www.bom.gov.au/water/geofabric/documentation.shtml}.
+
+\bibitem[{Ver~Hoef and Peterson(2010)}]{Ver:Pete:Move:2010}
+Ver~Hoef JM, Peterson E (2010).
+\newblock \enquote{A Moving Average Approach for Spatial Statistical Models of
+  Stream Networks (with discussion).}
+\newblock \emph{Journal of the American Statistical Association}, \textbf{105},
+  6--18.
+\newblock \doi{10.1198/jasa.2009.ap08248; Rejoinder pgs. 22 - 24}.
+
+\bibitem[{Ver~Hoef \emph{et~al.}(in review)Ver~Hoef, Peterson, Clifford, and
+  Shah}]{Ver:Pete:Clif:Shah:SSN:2012}
+Ver~Hoef JM, Peterson E, Clifford D, Shah R (in review).
+\newblock \enquote{SSN: An R Package for Spatial Statistical Modeling on Stream
+  Networks.}
+\newblock \emph{submitted to Journal of Statistical Software}.
+
+\bibitem[{Ver~Hoef \emph{et~al.}(2006)Ver~Hoef, Peterson, and
+  Theobald}]{Ver:Pete:Theo:spat:2006}
+Ver~Hoef JM, Peterson EE, Theobald D (2006).
+\newblock \enquote{Spatial Statistical Models That Use Flow and Stream
+  Distance.}
+\newblock \emph{Environmental and Ecological Statistics}, \textbf{13}(1),
+  449--464.
+
+\end{thebibliography}

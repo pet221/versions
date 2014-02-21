@@ -1,0 +1,17 @@
+201103121411   0     0     0pet221 D:\example\wbgrid = SHAPEGRID(D:\example\waterbodies.shp, wbid, 25)
+201103121413   0     0     0pet221 D:\example\calc2 = D:\example\dem - D:\example\edgegrid5
+201103121422   0     0     0pet221 kill demburn5 all
+201103121424   0     0     0pet221 D:\example\calc2 = D:\example\dem - D:\example\edgegrid5
+201103121425   0     0     0pet221 D:\example\calc3 = D:\example\dem - D:\example\edgegrid5
+201103121426   0     0     0pet221 D:\example\calc4 = D:\example\dem - D:\example\edgegrid5
+201103121437   0     0     0pet221 kill dem all
+201103121437   0     0     0pet221 kill demburn5 all
+201103121437   0     0     0pet221 kill demfill all
+201103121443   0     1     0pet221 D:\example\calc2 = D:\example\dem - D:\example\edgegrid5
+201103121444   0     0     0pet221 D:\example\calc3 = D:\example\dem - D:\example\edgegrid5
+201103121456   0     1     0pet221 D:\example\rcagrid = SHAPEGRID(D:\example\costrcas.shp, GRIDCODE, 25)
+20110313 859   0     0     0pet221 kill demburn5 all
+20110313 859   0     0     0pet221 kill demfill all
+20110313 859   0     0     0pet221 kill dem all
+20110313 905   0     0     0pet221 D:\example\calc2 = D:\example\dem - D:\example\edgegrid5
+201103131659   0     0     0pet221 copy dem d:\example\dem

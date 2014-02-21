@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{9B28AB54-1096-4D91-BDD3-EE981FC7E1B5}</MetaID><CreaDate>20110313</CreaDate><CreaTime>15373600</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CreateFeatureclass" Date="20110313" Time="153736">CreateFeatureclass D:\Example2\lsn node_errors.shp POINT D:\Example2\lsn\lsn.mdb\nodes DISABLED DISABLED "{B286C06B-0879-11D2-AACA-00C04FA33C20};-450359962737.05 -450359962737.05 10000;#;#;0.001;#;#;IsHighPrecision" # 0 0 0 D:\Example2\lsn\node_errors.shp</Process></lineage></DataProperties></Esri></metadata>
