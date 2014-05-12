@@ -1,3 +1,0 @@
-<?xml version="1.0"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="en"><Esri><MetaID>{97E6BF0D-9D44-45D8-9078-F47F0B6CC768}</MetaID><CreaDate>20110306</CreaDate><CreaTime>15074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FlowAccumulation" Date="20110306" Time="150748">FlowAccumulation flowdir D:\projects\ssnpackage\docs\gistutorial\exampledata\landuse\accCons lu_10 FLOAT</Process></lineage></DataProperties></Esri></metadata>

@@ -1,3 +1,0 @@
-<?xml version="1.0"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="en"><Esri><MetaID>{C9678CF0-8099-4E56-AD6C-E3105F99CEC1}</MetaID><CreaDate>20110312</CreaDate><CreaTime>14110900</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20110312" Time="141109">Reclassify edgegrid VALUE "1 511 5;NODATA 0" D:\example\edgegrid5 DATA</Process></lineage></DataProperties></Esri></metadata>

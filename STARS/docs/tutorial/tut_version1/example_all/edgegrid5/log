@@ -1,1 +1,0 @@
-201103121411   0     0     0pet221 C:\DOCUME~1\pet221\LOCALS~1\Temp\raster3 = CON(ISNULL(D:\example\edgegrid), ( 0), RECLASS(D:\example\edgegrid,  C:\DOCUME~1\pet221\LOCALS~1\Temp\remap2, DATA))
